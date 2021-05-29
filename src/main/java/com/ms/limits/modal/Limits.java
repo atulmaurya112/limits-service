@@ -26,5 +26,4 @@ public class Limits {
 		this.maximum = maximum;
 	}
 	
-	
 }
